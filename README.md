@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravi-919
-- 👀 I’m interested in Python, Artificial Intelligence, Machine Learning & Data Science
-- 🌱 I’m currently learning Python & Data Science
+- 👀 I’m interested in Java & Artificial Intelligence
+- 🌱 I’m currently learning Java & Spring
 - 💞️ I’m looking to collaborate on any application or website
 - 📫 How to reach me email me at jairavi96@gmail.com
 
